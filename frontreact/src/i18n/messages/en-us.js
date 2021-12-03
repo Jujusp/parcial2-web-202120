@@ -1,11 +1,12 @@
-import { LOCALES } from '../locales';
+import { LOCALES } from '../locales'
 
 const english = {
-  [LOCALES.ENGLISH]: {
-    report: 'Report',
-    home: 'Home',
-    gallery: 'Gallery',
-  },
-};
+    [LOCALES.ENGLISH]: {
+        report: 'Report',
+        home: 'Home',
+        gallery: 'Gallery',
+        stockInventory: 'Inventory Stock'
+    }
+}
 
-export default english;
+export default english
